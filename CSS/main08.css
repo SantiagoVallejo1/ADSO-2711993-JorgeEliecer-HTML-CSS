@@ -1,0 +1,28 @@
+a { 
+    margin: 1em 0; float: left; clear: left; text-decoration: none;
+}
+
+.simple {
+    text-decoration: underline;
+    color: #CC0000;
+}
+
+.color:hover{ 
+    color: #fff;
+    background-color: #CC0000;
+}
+
+.gris {
+    text-decoration: underline;
+    color: #CCC;
+}
+
+.simple2 {
+    text-decoration: underline;
+    color: #CC0000;
+}
+
+.simple3 {
+    text-decoration: underline;
+    color: #CC0000;
+}
