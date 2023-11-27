@@ -1,0 +1,59 @@
+.formulario{
+    border: solid 2px aqua;
+}
+
+.encabezado{
+    /* border: solid 3px violet; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 2%;
+    margin: 1%;
+}
+
+.encabezado h2{
+    text-align: center;
+}
+
+img{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* border: solid 2px blue; */
+    border-radius: 5%;
+    width: 8%;
+    margin-left: 1em;
+    margin-right: 2em;
+}
+
+header{
+    margin-top: 1%;
+}
+
+ul li i{
+    margin-right: 40px;
+}
+
+form i{
+    /* border: solid 2px blue; */
+    margin-right: 2px;
+}
+
+.principal{
+    /* border: solid 2px blue; */
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px 10px;
+    border-radius: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.principal div{
+    /* border: solid 3px black; */
+    box-shadow:rgb(50, 50, 93, 0.25) 0px 13px 27px 5px, rgb(0, 0, 0, 0.3) 0px 8px 16px 8px;
+    border-radius: 3%;
+    margin: 10px;
+    height: 250px;
+    width: 20%;
+}
+
+.imgBody{
+    width: 100%;
+}
