@@ -1,0 +1,76 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+
+.formulario {
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid rgb(255, 228, 181);
+    border-radius: 10px;
+    background-color: white;
+}
+
+.formulario h1 {
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.formulario input {
+    width: 60%;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: transparent;
+    color: black;
+}
+
+.boton:last-letter {
+    color: red;
+}
+
+.boton{
+    margin-left: 150px;
+    padding: 20px;
+}
+
+.boton button{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    font-size: 20px;
+}
+
+.genero input{
+    width: 20px;
+    height: 20px;
+}
+
+label {
+    color: black;
+    font-size: 15px;
+    margin :10px;
+}
+
+.ciudadNacimiento{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ciudadNacimiento select{
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    margin: 10px;
+}
+.ciudadNacimiento label{
+    color: black;
+    font-size: 15px;
+}
+.formulario i{
+    color: black;
+}
